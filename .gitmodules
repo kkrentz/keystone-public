@@ -3,7 +3,7 @@
 	url = https://github.com/riscv/riscv-gnu-toolchain
 [submodule "sdk"]
 	path = sdk
-	url = https://github.com/keystone-enclave/keystone-sdk
+	url = https://github.com/kkrentz/filtering-sdk.git
 [submodule "linux-keystone-driver"]
 	path = linux-keystone-driver
 	url = https://github.com/keystone-enclave/linux-keystone-driver
@@ -18,4 +18,4 @@
 	url = https://github.com/qemu/qemu
 [submodule "sm"]
 	path = sm
-	url = https://github.com/keystone-enclave/sm
+	url = https://github.com/kkrentz/filtering-sm.git
